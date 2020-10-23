@@ -42,6 +42,7 @@
     <aside class="app-sidebar">
       <ul class="app-menu">
         <li><a class="app-menu__item" href=""><i class="app-menu__icon fa fa-pie-chart"></i><span class="app-menu__label">Opciones</span></a></li>
+        <li><a class="app-menu__item" href="agregarAnimales.php"><i class="app-menu__icon fa fa-file-text"></i><span class="app-menu__label">Registro Animales</span></a></li>
         <li><a class="app-menu__item" href="form-samples.php"><i class="app-menu__icon fa fa-pie-chart"></i><span class="app-menu__label">Form Samples</span></a></li>
         <li><a class="app-menu__item" href="table-data-table.php"><i class="app-menu__icon fa fa-pie-chart"></i><span class="app-menu__label">Ejemplo Tablas</span></a></li>
       </ul>

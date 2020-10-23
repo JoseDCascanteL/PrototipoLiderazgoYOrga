@@ -2,7 +2,7 @@
 require_once "parte_superior.php"
 ?>
     <main class="app-content">
-    <h1><i class="fa fa-dashboard"></i> Contenido Principal</h1>
+        <img alt="Imagen de Ganaderia" title="Foto de Ganaderia" src="images/ganaderia.jpg" width="100%" />
     </main>
  
 <?php
